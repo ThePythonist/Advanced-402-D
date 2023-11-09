@@ -1,0 +1,3 @@
+asgiref==3.7.2
+jdatetime==4.1.1
+mtranslate==1.8
